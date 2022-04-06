@@ -88,7 +88,7 @@
 
 <script>
 export default {
-  name: "HelloWorld",
+  name: "TitleVomponent",
   props: {
     msg: String,
   },
